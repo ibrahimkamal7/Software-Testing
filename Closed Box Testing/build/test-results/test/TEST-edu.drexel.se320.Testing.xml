@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.drexel.se320.Testing" tests="14" skipped="0" failures="0" errors="0" timestamp="2020-10-22T04:30:02" hostname="Ibrahims-MacBook-Pro.local" time="0.048">
+  <properties/>
+  <testcase name="testArrayWithOneElement()" classname="edu.drexel.se320.Testing" time="0.024"/>
+  <testcase name="testElementNotInArray()" classname="edu.drexel.se320.Testing" time="0.004"/>
+  <testcase name="testEmptyArray()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="testElementPresentAtMiddlePlusOneIndex()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="testArrayWithManyElements()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="testElementPresentAtLastIndex()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="testNullElement()" classname="edu.drexel.se320.Testing" time="0.002"/>
+  <testcase name="testElementPresentAtFirstIndex()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="testElementPresentAtSecondIndex()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="testElementPresentAtMiddleIndex()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="testElementPresentAtSecondLastIndex()" classname="edu.drexel.se320.Testing" time="0.0"/>
+  <testcase name="testArrayWithManyElements_ElementNotInArray()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="testArrayWithManyElements_NullElement()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <testcase name="testNullArray()" classname="edu.drexel.se320.Testing" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
